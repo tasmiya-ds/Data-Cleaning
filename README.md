@@ -1,4 +1,4 @@
-## Data Cleaning Hands-on Task
+## Data Cleaning Hands-on Task 📉
 
 This project demonstrates basic data cleaning techniques using Python and Pandas.
 
